@@ -7,7 +7,7 @@
 
 # Site settings
 title:              Owl House Co.
-logo:               '/images/posts/owl-house-logo.svg'
+logo:               '/images/general/owl-house-logo.svg'
 description:        Elegant Paper Crafts & Printables
 baseurl:            '' # The subpath of your site, e.g. /blog
 url:                'http://owlhouse.co' # The base hostname & protocol for your site
