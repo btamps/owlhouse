@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Halloween Drinking Ghost Favor Tags
+title: Halloween “Let’s Get Sheet Faced” and “I’m Here for the Boos” Drinking Ghost Favor Tags
 featured: false
 author: john
 tags: [Halloween, Ghosts, Favor Tags, Printables]
@@ -26,7 +26,3 @@ Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur
 
 You can purchase these tags as well as see other products in our
 <a href="https://www.etsy.com/listing/536874084/" target="_blank" alt="Etsy Store">Etsy Store</a>.
-
-<div style="display:none;">
-  ![Halloween Drinking Ghosts Favor Tags](/images/posts/ghost-booze/halloween-ghost-booze-pin.jpg)
-</div>
