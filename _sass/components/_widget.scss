@@ -9,7 +9,7 @@
 
   &__title {
     padding-bottom: $base-spacing-unit;
-    margin-bottom: double($base-spacing-unit);
+    margin-bottom: $base-spacing-unit;
     border-bottom: 1px solid $color-border;
     line-height: initial;
     letter-spacing: 2px;
