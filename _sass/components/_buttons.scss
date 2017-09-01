@@ -2,8 +2,8 @@
   Components > Buttons
 \*------------------------------------*/
 
-$btn-bg:       #1F5F8B;
-$btn-bg-hover: #253B6E;
+$btn-bg:       $color-brand;
+$btn-bg-hover: #b28c70;
 
 .c-btn {
   display: inline-block;
