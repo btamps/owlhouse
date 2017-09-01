@@ -12,6 +12,7 @@ description:        Elegant Paper Crafts & Printables
 baseurl:            '' # The subpath of your site, e.g. /blog
 url:                'http://owlhouse.co' # The base hostname & protocol for your site
 facebook:           https://www.facebook.com/owlhouseco/
+twitter:            https://twitter.com/owlhouseco
 instagram:          https://www.instagram.com/owlhouse.co
 pinterest:          https://www.pinterest.com/owlhouseco
 etsy:               https://owlhouseco.etsy.com
@@ -55,4 +56,4 @@ authors:
     email:            heyowlhouse@gmail.com
     website:          http://owlhouse.co
     github_username:  btamps
-    twitter_username: owlhouse
+    twitter_username: owlhouseco
