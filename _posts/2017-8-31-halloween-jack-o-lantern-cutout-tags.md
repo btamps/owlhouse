@@ -26,5 +26,5 @@ The two layer design creates a unique look. The front layer showcases the friend
 
 ![Halloween Jack-o'-Lantern SVG Cut File Favor Tag Set](/images/posts/jack-o-lantern-cutouts/halloween-jack-o-lantern-cut-file-svg-favor-tags_03.jpg)
 
-You can purchase these tags as well as browse other products in our
+You can purchase these tags as well as browse other products in the
 <a href="https://www.etsy.com/listing/555138173/" target="_blank" alt="Etsy Store">Etsy Store</a>.
