@@ -3,16 +3,16 @@ layout: post
 title: Halloween “Hey Boo” and “Boo Y’all” Ghost Printable Favor Tags
 featured: false
 author: john
-tags: [Halloween, Ghosts, Favor Tags, Printables]
-image: '/images/posts/hey-boo/halloween-ghost-hey-boo-main.jpg'
+tags: [halloween, ghosts, 'favor-tags', printables]
+image: '/images/posts/hey-boo/halloween-ghost-hey-boo-printable-favor-tag-main.jpg'
 ---
 <div style="display:none;">
-  <img src="/images/posts/hey-boo/halloween-ghost-hey-boo-pin.jpg" alt="Halloween Drinking Ghosts Favor Tags">
+  <img src="/images/posts/hey-boo/halloween-ghost-hey-boo-printable-favor-tag-pin.jpg" alt="Halloween Hey Boo Ghost Printable Favor Tags">
 </div>
 
-Just in time for the Halloween season, our new ghost-themed printable favor tags are now available. You can purchase these two tags as a digital print bundle, “Hey Boo” and “Boo Y’all”, in our <a href="https://www.etsy.com/listing/550673209/" target="_blank" alt="Etsy Store">Etsy Store</a>.
+Just in time for the Halloween season, my new ghost-themed printable favor tags are now available. You can purchase these two tags as a digital print bundle, “Hey Boo” and “Boo Y’all”, in my <a href="https://www.etsy.com/listing/550673209/" target="_blank" alt="Etsy Store">Etsy Store</a>.
 
-![Halloween Drinking Ghosts Favor Tags](/images/posts/hey-boo/halloween-ghost-hey-boo-02.jpg)
+![Halloween Hey Boo Ghosts Printable Favor Tags](/images/posts/hey-boo/halloween-ghost-hey-boo-printable-favor-tag-02.jpg)
 
-Purchase these tags as well as see other products in our
+Purchase these tags as well as browse other products in the
 <a href="https://www.etsy.com/listing/550673209/" target="_blank" alt="Etsy Store">Etsy Store</a>.
